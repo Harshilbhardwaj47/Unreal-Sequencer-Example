@@ -1,0 +1,743 @@
+"../../../../../UE4/First try/Sequencer/Content/StarterContent/Materials/M_Basic_Floor.uasset" 0
+"../../../../../UE4/First try/Sequencer/Content/StarterContent/Architecture/Floor_400x400.uasset" 1
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 2
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/RenderToTexture_Enum.uasset" 3
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/RenderToTexture_Flipbook_Enum.uasset" 4
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/RenderToTexture_Imposter_Enum.uasset" 5
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 6
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/EIntTypes.uasset" 7
+"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary.uasset" 8
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/EFloatTypes.uasset" 9
+"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureMacros.uasset" 10
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 11
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 12
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 13
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 14
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 15
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 16
+"../../../Engine/Content/BasicShapes/Cone.uasset" 17
+"../../../Engine/Content/BasicShapes/Cube.uasset" 18
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 19
+"../../../Engine/Content/BasicShapes/Plane.uasset" 20
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 21
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 22
+"../../../Engine/Content/BufferVisualization/AmbientOcclusion.uasset" 23
+"../../../Engine/Content/BufferVisualization/BaseColor.uasset" 24
+"../../../Engine/Content/BufferVisualization/CustomDepth.uasset" 25
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 26
+"../../../Engine/Content/BufferVisualization/CustomDepthWorldUnits.uasset" 27
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 28
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 29
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 30
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 31
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 32
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 33
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 34
+"../../../Engine/Content/BufferVisualization/CustomStencil.uasset" 35
+"../../../Engine/Content/BufferVisualization/FinalImage.uasset" 36
+"../../../Engine/Content/BufferVisualization/LightingModel.uasset" 37
+"../../../Engine/Content/BufferVisualization/MaterialAO.uasset" 38
+"../../../Engine/Content/BufferVisualization/Metallic.uasset" 39
+"../../../Engine/Content/BufferVisualization/Opacity.uasset" 40
+"../../../Engine/Content/BufferVisualization/PostTonemapHDRColor.uasset" 41
+"../../../Engine/Content/BufferVisualization/PreTonemapHDRColor.uasset" 42
+"../../../Engine/Content/BufferVisualization/Roughness.uasset" 43
+"../../../Engine/Content/BufferVisualization/SceneColor.uasset" 44
+"../../../Engine/Content/BufferVisualization/SceneDepth.uasset" 45
+"../../../Engine/Content/BufferVisualization/SceneDepthWorldUnits.uasset" 46
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyA.uasset" 47
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyRGB.uasset" 48
+"../../../Engine/Content/BufferVisualization/Specular.uasset" 49
+"../../../Engine/Content/BufferVisualization/SubsurfaceColor.uasset" 50
+"../../../Engine/Content/BufferVisualization/Velocity.uasset" 51
+"../../../Engine/Content/BufferVisualization/WorldNormal.uasset" 52
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 53
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 54
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 55
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmoHeight_Mat.uasset" 56
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat.uasset" 57
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat_Copied.uasset" 58
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset" 59
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 60
+"../../../Engine/Content/EditorMaterials/Cross.uasset" 61
+"../../../Engine/Content/EditorMaterials/Cross_Mat.uasset" 62
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 63
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 64
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 65
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 66
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 67
+"../../../Engine/Content/EditorResources/T_EditorHelp.uasset" 68
+"../../../Engine/Content/EditorMaterials/HelpActorMaterial.uasset" 69
+"../../../Engine/Content/EditorMaterials/CompositeARGBLayer.uasset" 70
+"../../../Engine/Content/EditorMaterials/TilingAALineIntegral.uasset" 71
+"../../../Engine/Content/EditorMaterials/TilingAALineBoxFiltered.uasset" 72
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 73
+"../../../Engine/Content/EditorMaterials/TilingAADots.uasset" 74
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 75
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 76
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 77
+"../../../Engine/Content/EditorMaterials/TilingAAGrid.uasset" 78
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial.uasset" 79
+"../../../Engine/Content/EditorMaterials/MakeCompositeARGBLayer.uasset" 80
+"../../../Engine/Content/EditorResources/LevelGrid1DStripes.uasset" 81
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded1D.uasset" 82
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded2D.uasset" 83
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uasset" 84
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 85
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 86
+"../../../Engine/Content/EditorMaterials/AntialiasedGridFloor.uasset" 87
+"../../../Engine/Content/EditorResources/TilePatine_D.uasset" 88
+"../../../Engine/Content/EditorResources/TilePatine_N.uasset" 89
+"../../../Engine/Content/EngineMaterials/Grid.uasset" 90
+"../../../Engine/Content/EditorMaterials/PersonaFloorMat.uasset" 91
+"../../../Engine/Content/EditorMaterials/PhAT_BoneSelectedMaterial.uasset" 92
+"../../../Engine/Content/EditorMaterials/PhAT_ElemSelectedMaterial.uasset" 93
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 94
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 95
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 96
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 97
+"../../../Engine/Content/EditorMaterials/TargetIcon.uasset" 98
+"../../../Engine/Content/EditorMaterials/Tick.uasset" 99
+"../../../Engine/Content/EditorMaterials/Tick_Mat.uasset" 100
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial.uasset" 101
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial_Ma.uasset" 102
+"../../../Engine/Content/EditorMaterials/WidgetMaterial.uasset" 103
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Current.uasset" 104
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_X.uasset" 105
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Y.uasset" 106
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Z.uasset" 107
+"../../../Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uasset" 108
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 109
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 110
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 111
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 112
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 113
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 114
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 115
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 116
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 117
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 118
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 119
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 120
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 121
+"../../../Engine/Content/EditorMaterials/Thumbnails/FloorPlaneMaterial.uasset" 122
+"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 123
+"../../../Engine/Content/EditorMeshes/EditorCylinder.uasset" 124
+"../../../Engine/Content/EditorMeshes/EditorPlane.uasset" 125
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 126
+"../../../Engine/Content/EditorMeshes/EditorSkySphere.uasset" 127
+"../../../Engine/Content/EditorMeshes/EditorSphere.uasset" 128
+"../../../Engine/Content/EditorResources/MatineeCam_D.uasset" 129
+"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset" 130
+"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uasset" 131
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 132
+"../../../Engine/Content/EditorMaterials/GridMaterial.uasset" 133
+"../../../Engine/Content/EditorMeshes/PhAT_FloorBox.uasset" 134
+"../../../Engine/Content/EditorMeshes/PlanarReflectionPlane.uasset" 135
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 136
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uasset" 137
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset" 138
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CamViewFinder.uasset" 139
+"../../../Engine/Content/EditorMeshes/Camera/SM_CineCam.uasset" 140
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 141
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 142
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 143
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 144
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 145
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 146
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 147
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 148
+"../../../Engine/Content/EditorResources/Bad.uasset" 149
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 150
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 151
+"../../../Engine/Content/EditorResources/MatInstActSprite.uasset" 152
+"../../../Engine/Content/EditorResources/SceneManager.uasset" 153
+"../../../Engine/Content/EditorResources/SmallFont.uasset" 154
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 155
+"../../../Engine/Content/EditorResources/S_DecalActorIcon.uasset" 156
+"../../../Engine/Content/EditorResources/S_Emitter.uasset" 157
+"../../../Engine/Content/EditorResources/S_ExpoHeightFog.uasset" 158
+"../../../Engine/Content/EditorResources/S_FTest.uasset" 159
+"../../../Engine/Content/EditorResources/S_KBSJoint.uasset" 160
+"../../../Engine/Content/EditorResources/S_KHinge.uasset" 161
+"../../../Engine/Content/EditorResources/S_KPrismatic.uasset" 162
+"../../../Engine/Content/EditorResources/S_LevelSequence.uasset" 163
+"../../../Engine/Content/EditorResources/S_NavP.uasset" 164
+"../../../Engine/Content/EditorResources/S_Note.uasset" 165
+"../../../Engine/Content/EditorResources/S_Player.uasset" 166
+"../../../Engine/Content/EditorResources/S_PortalActorIcon2.uasset" 167
+"../../../Engine/Content/EditorResources/S_RadForce.uasset" 168
+"../../../Engine/Content/EditorResources/S_ReflActorIcon.uasset" 169
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 170
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 171
+"../../../Engine/Content/EditorResources/S_TextRenderActorIcon.uasset" 172
+"../../../Engine/Content/EditorResources/S_Thruster.uasset" 173
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 174
+"../../../Engine/Content/EditorResources/S_VectorFieldVol.uasset" 175
+"../../../Engine/Content/EditorResources/S_WindDirectional.uasset" 176
+"../../../Engine/Content/EditorResources/AI/S_NavLink.uasset" 177
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 178
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 179
+"../../../Engine/Content/EditorResources/LightIcons/SkyLight.uasset" 180
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectional.uasset" 181
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectionalMove.uasset" 182
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 183
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPoint.uasset" 184
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPointMove.uasset" 185
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpot.uasset" 186
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpotMove.uasset" 187
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 188
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 189
+"../../../Engine/Content/EditorResources/Spline/T_Loft_Spline.uasset" 190
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 191
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 192
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 193
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 194
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 195
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 196
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 197
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 198
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 199
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 200
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 201
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 202
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 203
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationLitMaterial.uasset" 204
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationUnlitMaterial.uasset" 205
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 206
+"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uasset" 207
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 208
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 209
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 210
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 211
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationLitMaterial.uasset" 212
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationUnlitMateri.uasset" 213
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 214
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_AlphaAsColor.uasset" 215
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset" 216
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_ColorOnly.uasset" 217
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset" 218
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 219
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 220
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 221
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 222
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 223
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 224
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 225
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 226
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 227
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 228
+"../../../Engine/Content/EngineFonts/SmallFont.uasset" 229
+"../../../Engine/Content/EngineFonts/TinyFont.uasset" 230
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 231
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 232
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 233
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 234
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 235
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 236
+"../../../Engine/Content/EngineMaterials/BlinkingCaret.uasset" 237
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 238
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 239
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 240
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 241
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 242
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 243
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 244
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 245
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 246
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 247
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 248
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 249
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 250
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 251
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 252
+"../../../Engine/Content/EngineMaterials/Grid_N.uasset" 253
+"../../../Engine/Content/EngineMaterials/HighResolutionScreenshotMaskFunction.uasset" 254
+"../../../Engine/Content/EngineMaterials/HighResScreenshot.uasset" 255
+"../../../Engine/Content/EngineMaterials/HighResScreenshotCaptureRegion.uasset" 256
+"../../../Engine/Content/EngineMaterials/HighResScreenshotMask.uasset" 257
+"../../../Engine/Content/EngineMaterials/LandscapeHolePhysicalMaterial.uasset" 258
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 259
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 260
+"../../../Engine/Content/EngineMaterials/PaperDiffuse.uasset" 261
+"../../../Engine/Content/EngineMaterials/PaperNormal.uasset" 262
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 263
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 264
+"../../../Engine/Content/EngineMaterials/PhysMat_Rubber.uasset" 265
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 266
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 267
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 268
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 269
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 270
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 271
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 272
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 273
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 274
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 275
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 276
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 277
+"../../../Engine/Content/EngineResources/Black.uasset" 278
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 279
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 280
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 281
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 282
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 283
+"../../../Engine/Content/EngineResources/StreamingPauseIcon.uasset" 284
+"../../../Engine/Content/EngineResources/M_StreamingPause.uasset" 285
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 286
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 287
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 288
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 289
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 290
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 291
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 292
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 293
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 294
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 295
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 296
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 297
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 298
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 299
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 300
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 301
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 302
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 303
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 304
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 305
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 306
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 307
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 308
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 309
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 310
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 311
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 312
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 313
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 314
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 315
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 316
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 317
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 318
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 319
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 320
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 321
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 322
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 323
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 324
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 325
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 326
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 327
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 328
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 329
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 330
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/reflect_spark_03.uasset" 331
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/reflect_spark_05.uasset" 332
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Ambient/Amb_IntRoomtone03Loop.uasset" 333
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Ambient/Light_Buzz.uasset" 334
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Arcade/Button_Press02.uasset" 335
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Arcade/Game_Start11.uasset" 336
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Arcade/SFX_Score_01b.uasset" 337
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Foley/BodyMvmt_Walk09.uasset" 338
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Foley/BodyMvmt_Walk10.uasset" 339
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Foley/BodyMvmt_Walk11.uasset" 340
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Foley/BodyMvmt_Walk13.uasset" 341
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Foley/BodyMvmt_Walk17.uasset" 342
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Footsteps/Footstep01.uasset" 343
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Footsteps/Footstep02.uasset" 344
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Footsteps/Footstep03.uasset" 345
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Footsteps/Footstep04.uasset" 346
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Footsteps/Footstep06.uasset" 347
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Footsteps/Footstep07.uasset" 348
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Footsteps/Footstep08.uasset" 349
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Footsteps/Water_FootstepLayer01.uasset" 350
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Footsteps/Water_FootstepLayer02.uasset" 351
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Footsteps/Water_FootstepLayer03.uasset" 352
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Footsteps/Water_FootstepLayer04.uasset" 353
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Gates/Gate_Close01.uasset" 354
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Gates/Gate_KickOpen.uasset" 355
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Gates/Gate_OpenHit.uasset" 356
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Gates/Gate_OpenSlide.uasset" 357
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Mesh/Trooper_Export_Skeleton.uasset" 358
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Animation/TDemo_Mocap_Terry/TDemo_Part1_A_T8_Terry.uasset" 359
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Arcade_Background.uasset" 360
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Arcade_Chicken.uasset" 361
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Arcade_Chicken_3.uasset" 362
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Arcade_Screen_M.uasset" 363
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Arcade_Title.uasset" 364
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Arcade_Trees.uasset" 365
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_ArcadeCabinet_R.uasset" 366
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Arcade_Screen_1player.uasset" 367
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Arcade/SFX_FlapWing_Cue.uasset" 368
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Arcade/SFX_Score_01_Cue.uasset" 369
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_ArcadeCabinet_D.uasset" 370
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_ArcadeCabinet_M.uasset" 371
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_ArcadeCabinet_N.uasset" 372
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/SM_Arcade.uasset" 373
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Arcade_Screen_2player_Inst.uasset" 374
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_ArcadeCabinet_02.uasset" 375
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_ArcadeCabinet_Button.uasset" 376
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Arcade_Chicken_2.uasset" 377
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Arcade_Chicken_4.uasset" 378
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Arcade_Trees_Tiling.uasset" 379
+"../../../../../UE4/First try/Sequencer/Content/Assets/Blueprints/BP_Arcade_Animated.uasset" 380
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Foley/BodyMvmt_Walk_Cue.uasset" 381
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Footsteps/Footstep_Cue.uasset" 382
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Gates/Gate_OpenSlide_Cue.uasset" 383
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/reflect_spark_02.uasset" 384
+"../../../../../UE4/First try/Sequencer/Content/Sequencer/shots/shot0010/shot0010_001.uasset" 385
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Animation/TDemo_Mocap_Terry/TDemo_Part1_A_T9_Terry.uasset" 386
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Footsteps/Water_FootstepLayer_Cue.uasset" 387
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Gates/Gate_OpenHit_Cue.uasset" 388
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Hits/Impact_Enhancer01.uasset" 389
+"../../../../../UE4/First try/Sequencer/Content/Sequencer/shots/shot0020/shot0020_001.uasset" 390
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Animation/TDemo_Mocap/TDemo_Part1_B_T1.uasset" 391
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Gates/Gate_KickOpen_Cue.uasset" 392
+"../../../../../UE4/First try/Sequencer/Content/Sequencer/shots/shot0030/shot0030_001.uasset" 393
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Animation/TDemo_mocap_JB/TDemo_Part1_B_T1.uasset" 394
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Ambient/Subway_Pass02.uasset" 395
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Gates/Gate_Close01_Cue.uasset" 396
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Hits/Impact_Enhancer03.uasset" 397
+"../../../../../UE4/First try/Sequencer/Content/Sequencer/shots/shot0040/shot0040_001.uasset" 398
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Animation/TDemo_Mocap/TDemo_Part2_A_T5.uasset" 399
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Animation/TDemo_Mocap/TDemo_Part2_B_T7.uasset" 400
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Foley/BodyMvmt_ArmLong01.uasset" 401
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Foley/BodyMvmt_ArmLong02.uasset" 402
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Foley/BodyMvmt_ArmLong03.uasset" 403
+"../../../../../UE4/First try/Sequencer/Content/Sequencer/shots/shot0050/shot0050_001.uasset" 404
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Foley/BodyMvmt_ArmLong04.uasset" 405
+"../../../../../UE4/First try/Sequencer/Content/Sequencer/shots/shot0060/shot0060_001.uasset" 406
+"../../../../../UE4/First try/Sequencer/Content/Sequencer/shots/shot0070/shot0070_001.uasset" 407
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Animation/TDemo_mocap_JB/TDemo_Part2_A_T5.uasset" 408
+"../../../../../UE4/First try/Sequencer/Content/Sequencer/shots/shot0080/shot0080_001.uasset" 409
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/reflect_spark_01.uasset" 410
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Whooshes/Impact01.uasset" 411
+"../../../../../UE4/First try/Sequencer/Content/Sequencer/shots/shot0090/shot0090_001.uasset" 412
+"../../../../../UE4/First try/Sequencer/Content/Sequencer/shots/shot0100/shot0100_001.uasset" 413
+"../../../../../UE4/First try/Sequencer/Content/Sequencer/shots/shot0110/shot0110_001.uasset" 414
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Animation/TDemo_Mocap/TDemo_Part3_T3.uasset" 415
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Animation/TDemo_Mocap_Terry/TDemo_Part3_T3_Terry.uasset" 416
+"../../../../../UE4/First try/Sequencer/Content/Sequencer/shots/shot0120/shot0120_001.uasset" 417
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Animation/TDemo_mocap_JB/TDemo_Part3_T3_ALT.uasset" 418
+"../../../../../UE4/First try/Sequencer/Content/Sequencer/shots/shot0130/shot0130_001.uasset" 419
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Animation/TDemo_Mocap/TDemo_Part4_T5.uasset" 420
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Animation/TDemo_Mocap_Terry/TDemo_Part4_T5_Terry.uasset" 421
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Hits/BodyMove_Tackle01.uasset" 422
+"../../../../../UE4/First try/Sequencer/Content/Sequencer/shots/shot0140/shot0140_001.uasset" 423
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Animation/TDemo_mocap_JB/TDemo_Part5_T5.uasset" 424
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Animation/TDemo_Mocap_Terry/TDemo_Part5_T_Terry5.uasset" 425
+"../../../../../UE4/First try/Sequencer/Content/Sequencer/shots/shot0150/shot0150_001.uasset" 426
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Animation/TDemo_Mocap/TDemo_Part5_T12.uasset" 427
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Animation/TDemo_Mocap_Terry/TDemo_Part5_T12_Terry.uasset" 428
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Hits/BodyMove_Grab_Hard01.uasset" 429
+"../../../../../UE4/First try/Sequencer/Content/Sequencer/shots/shot0160/shot0160_001.uasset" 430
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Animation/TDemo_mocap_JB/TDemo_Part6_T2.uasset" 431
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Animation/TDemo_Mocap_Terry/TDemo_Part6_T2_Terry.uasset" 432
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Arcade/Game_Noise02.uasset" 433
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Arcade/SFX_Chicken_01.uasset" 434
+"../../../../../UE4/First try/Sequencer/Content/Sequencer/shots/shot0170/shot0170_001.uasset" 435
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Arcade/Button_Press01.uasset" 436
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Arcade/Button_Press01_Cue.uasset" 437
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Arcade/Game_Start_Cue.uasset" 438
+"../../../../../UE4/First try/Sequencer/Content/Sequencer/shots/shot0180/shot0180_001.uasset" 439
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Arcade/Button_Press02_Cue.uasset" 440
+"../../../../../UE4/First try/Sequencer/Content/Sequencer/shots/shot0190/shot0190_001.uasset" 441
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Arcade/SFX_FlapWing_01.uasset" 442
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Arcade/SFX_FlapWing_02.uasset" 443
+"../../../../../UE4/First try/Sequencer/Content/Sequencer/shots/shot0200/shot0200_001.uasset" 444
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Arcade/SFX_HitObstacle_01.uasset" 445
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Arcade/SFX_LastCluck_03.uasset" 446
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Arcade/SFX_LayEgg_01.uasset" 447
+"../../../../../UE4/First try/Sequencer/Content/Sequencer/shots/shot0210/shot0210_001.uasset" 448
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Music/Music_Part1.uasset" 449
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Music/Music_Part2.uasset" 450
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Music/Music_Part4.uasset" 451
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Music/Music_Part5b.uasset" 452
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Vocals/FighterA_VO_01.uasset" 453
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Vocals/FighterA_VO_02.uasset" 454
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Vocals/FighterA_VO_02b.uasset" 455
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Vocals/FighterA_VO_04.uasset" 456
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Vocals/FighterA_VO_05.uasset" 457
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Vocals/FighterA_VO_06.uasset" 458
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Vocals/FighterA_VO_07.uasset" 459
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Vocals/FighterA_VO_08.uasset" 460
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Vocals/FighterB_VO_01.uasset" 461
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Vocals/FighterB_VO_02.uasset" 462
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Vocals/FighterB_VO_03.uasset" 463
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Vocals/FighterB_VO_04.uasset" 464
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Vocals/FighterB_VO_05.uasset" 465
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Vocals/FighterB_VO_06.uasset" 466
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Vocals/FighterB_VO_07.uasset" 467
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Vocals/FighterB_VO_08.uasset" 468
+"../../../../../UE4/First try/Sequencer/Content/Sequencer/SubwaySequencerMASTER.uasset" 469
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 470
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 471
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 472
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 473
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 474
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 475
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfActor.uasset" 476
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfSwitch.uasset" 477
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 478
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 479
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 480
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 481
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenAnimationTrackType.uasset" 482
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackComponent.uasset" 483
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackType.uasset" 484
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveComponent.uasset" 485
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveType.uasset" 486
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchType.uasset" 487
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchType.uasset" 488
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantType.uasset" 489
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 490
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 491
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 492
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 493
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 494
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 495
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 496
+"../../../Engine/Content/Maps/Entry.umap" 497
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Emissive.uasset" 498
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Emissive_Flicker.uasset" 499
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Ambient/Light_Buzz_Cue.uasset" 500
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Reflections_Spark_Cue.uasset" 501
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 502
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/DiamondGradient.uasset" 503
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 504
+"../../../../../UE4/First try/Sequencer/Content/Assets/Effects/Textures/Flares/T_FlareRound_Noise.uasset" 505
+"../../../../../UE4/First try/Sequencer/Content/Assets/Effects/Materials/Flares/M_FlareRound.uasset" 506
+"../../../../../UE4/First try/Sequencer/Content/Assets/Effects/Textures/Noise/T_TilingNoise03.uasset" 507
+"../../../../../UE4/First try/Sequencer/Content/Assets/Effects/Textures/Smoke/T_SmokeSubUV_8X8_02.uasset" 508
+"../../../../../UE4/First try/Sequencer/Content/Assets/Effects/Textures/Smoke/T_TilingClouds_01.uasset" 509
+"../../../../../UE4/First try/Sequencer/Content/Assets/Effects/Materials/Snow/M_Snow_Blowing_Lit.uasset" 510
+"../../../../../UE4/First try/Sequencer/Content/Assets/Effects/Textures/Snow/T_Snow01_Packed.uasset" 511
+"../../../../../UE4/First try/Sequencer/Content/Assets/Effects/Materials/Sparks/M_Spark_VelocityLerp.uasset" 512
+"../../../../../UE4/First try/Sequencer/Content/Assets/Effects/Particles/Spark/P_SparkBurst.uasset" 513
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 514
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 515
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_BakedNormal.uasset" 516
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Stain.uasset" 517
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Standard.uasset" 518
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Grime_D.uasset" 519
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Grime_N.uasset" 520
+"../../../../../UE4/First try/Sequencer/Content/Assets/Material_Layers/ML_Grime01.uasset" 521
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Base_Metal_Light_D.uasset" 522
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Base_Metal_Light_N.uasset" 523
+"../../../../../UE4/First try/Sequencer/Content/Assets/Material_Layers/ML_Metal_Base_01.uasset" 524
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Metal_Painted01_D.uasset" 525
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Metal_Painted01_N.uasset" 526
+"../../../../../UE4/First try/Sequencer/Content/Assets/Material_Layers/ML_Metal_Painted_01_Dull.uasset" 527
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Rust_D.uasset" 528
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Rust_N.uasset" 529
+"../../../../../UE4/First try/Sequencer/Content/Assets/Material_Layers/ML_Rust.uasset" 530
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/MatLayer_FeatureLevelSwithc.uasset" 531
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Light_Fluorescent_M.uasset" 532
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Light_Fluorescent_N.uasset" 533
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Light_Flourescent.uasset" 534
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Rubber.uasset" 535
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/Emissive.uasset" 536
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/Emissive_Inst2.uasset" 537
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Light_Fluorescent_Hanging_02.uasset" 538
+"../../../../../UE4/First try/Sequencer/Content/Assets/Blueprints/BP_LightBuzzSoundControl.uasset" 539
+"../../../../../UE4/First try/Sequencer/Content/Maps/subwaySequencer_BuiltData.uasset" 540
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_BlackLeather.uasset" 541
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_BlackLeather_N.uasset" 542
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/MaterialLayers/ML_Black_leather.uasset" 543
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_COG_NylonFabric01_N.uasset" 544
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_Metal01.uasset" 545
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/MaterialLayers/ML_Black_Nylon.uasset" 546
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_flatnormal.uasset" 547
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/MaterialLayers/ML_Green_nYLON.uasset" 548
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/MaterialLayers/ML_Metal_01.uasset" 549
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_Rubber.uasset" 550
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/MaterialLayers/ML_Rubber.uasset" 551
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_Metal_white_metal.uasset" 552
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/MaterialLayers/ML_Whiteplastic.uasset" 553
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_MET_Trooper_Legs_AO.uasset" 554
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_MET_Trooper_Legs_Detail_Mask.uasset" 555
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_MET_Trooper_Legs_Mask.uasset" 556
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_MET_Trooper_Legs_N.uasset" 557
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_MET_Trooper_Legs_Roughness.uasset" 558
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Materials/M_MET_Trooper_Legs.uasset" 559
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_MET_Trooper_Accessory_AO.uasset" 560
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_MET_Trooper_Accessory_Mask.uasset" 561
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_MET_Trooper_Accessory_N.uasset" 562
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_MET_Trooper_Accessory_Roughness.uasset" 563
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Materials/M_Trooper_Accessory.uasset" 564
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_Metal_Red_Paint.uasset" 565
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/MaterialLayers/ML_Red_Paint.uasset" 566
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_MET_Trooper_Arm_AO.uasset" 567
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_MET_Trooper_Arm_Detail_Mask.uasset" 568
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_MET_Trooper_Arm_Mask.uasset" 569
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_MET_Trooper_Arm_N.uasset" 570
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_MET_Trooper_Arm_Roughness.uasset" 571
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Materials/M_MET_Trooper_Arm.uasset" 572
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Materials/Inst/Troop1/M_MET_Trooper_Arm_Inst.uasset" 573
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_MET_Trooper_Body_AO.uasset" 574
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_MET_Trooper_Body_Detail_Mask.uasset" 575
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_MET_Trooper_Body_Mask.uasset" 576
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_MET_Trooper_Body_N.uasset" 577
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_MET_Trooper_Body_Roughness.uasset" 578
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Materials/M_MET_Trooper_Body.uasset" 579
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Materials/Inst/Troop1/M_MET_Trooper_Body_Inst.uasset" 580
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 581
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/MaterialLayers/ML_BlackPlastic.uasset" 582
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_MET_Trooper_Masked_Fulltime_AO.uasset" 583
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_MET_Trooper_Masked_Fulltime_Detail_Mask.uasset" 584
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_MET_Trooper_Masked_Fulltime_Mask.uasset" 585
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_MET_Trooper_Masked_Fulltime_N.uasset" 586
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Textures/T_MET_Trooper_Masked_Fulltime_Roughness.uasset" 587
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Materials/M_MET_Trooper_Masked_Fulltime.uasset" 588
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Materials/Inst/Troop1/M_MET_Trooper_Masked_Fulltime_Inst.uasset" 589
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/TilingNoise02.uasset" 590
+"../../../../../UE4/First try/Sequencer/Content/Environment/Smoke/T_FallingSmoke.uasset" 591
+"../../../../../UE4/First try/Sequencer/Content/Environment/Smoke/M_RisingSmoke.uasset" 592
+"../../../../../UE4/First try/Sequencer/Content/Environment/Smoke/M_RisingSmoke_Inst.uasset" 593
+"../../../../../UE4/First try/Sequencer/Content/Environment/Smoke/M_RisingSmoke_2_Inst.uasset" 594
+"../../../../../UE4/First try/Sequencer/Content/Assets/Effects/Particles/Volumetric/P_Mist_Lit_Still_Brighter.uasset" 595
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Hallway_Gate_M.uasset" 596
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Hallway_Gate_N.uasset" 597
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_WaterTextures_M.uasset" 598
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Gate.uasset" 599
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Environment_Materials_Wet_TilingFlow02_N.uasset" 600
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Hallway_Signs_D4.uasset" 601
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Signs.uasset" 602
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Signs_Inst.uasset" 603
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Gate_Left.uasset" 604
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Gate_Right.uasset" 605
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Gate_Sliding.uasset" 606
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Gate_SlidingFrame.uasset" 607
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Light_Fluorescent_Hanging_01.uasset" 608
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_RoughnessOverride.uasset" 609
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_TintAllChannels.uasset" 610
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/MaterialLayers/ML_Metal_02.uasset" 611
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Materials/M_MET_Trooper_Arm2.uasset" 612
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Materials/Inst/Troop2/M_MET_Trooper_Arm2_Inst.uasset" 613
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Materials/M_MET_Trooper_Body2.uasset" 614
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Materials/Inst/Troop2/M_MET_Trooper_Body2_Inst.uasset" 615
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Materials/M_MET_Trooper_Legs2.uasset" 616
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Materials/Inst/Troop2/M_MET_Trooper_Legs2_Inst.uasset" 617
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Materials/M_MET_Trooper_Masked_Fulltime2.uasset" 618
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Materials/Inst/Troop2/M_MET_Trooper_Masked_Fulltime2_Inst.uasset" 619
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Materials/M_Trooper_Accessory2.uasset" 620
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Materials/Inst/Troop2/M_Trooper_Accessory2_Inst.uasset" 621
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Mesh/Trooper_Full_NoKnife_PhysicsAsset.uasset" 622
+"../../../../../UE4/First try/Sequencer/Content/Character/Trooper/Mesh/Trooper_Full_NoKnife.uasset" 623
+"../../../../../UE4/First try/Sequencer/Content/Environment/Smoke/SM_SmokeRising.uasset" 624
+"../../../../../UE4/First try/Sequencer/Content/Maps/subwaySequencer.umap" 625
+"../../../../../UE4/First try/Sequencer/Content/Maps/subwaySequencer_P_BuiltData.uasset" 626
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Concrete_2_D.uasset" 627
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/Grey.uasset" 628
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_ModulateRoughness.uasset" 629
+"../../../../../UE4/First try/Sequencer/Content/Assets/Material_Layers/ML_Mirror_Grunge.uasset" 630
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Clamp01_M.uasset" 631
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Base_Pipe.uasset" 632
+"../../../../../UE4/First try/Sequencer/Content/Assets/Material_Layers/MF_BlendAlpha_Vertex.uasset" 633
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Concrete_Wall01_D.uasset" 634
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Concrete_Wall01_N.uasset" 635
+"../../../../../UE4/First try/Sequencer/Content/Assets/Material_Layers/ML_Concrete_Wall01.uasset" 636
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Plaster02_D.uasset" 637
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Plaster02_N.uasset" 638
+"../../../../../UE4/First try/Sequencer/Content/Assets/Material_Layers/ML_Plaster02.uasset" 639
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Ceiling_Mesh_Paint.uasset" 640
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Tint.uasset" 641
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Ceiling_Mesh_Paint2.uasset" 642
+"../../../../../UE4/First try/Sequencer/Content/Assets/Material_Layers/MF_GroundWetness.uasset" 643
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Floor_Tiles_D.uasset" 644
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Floor_Tiles_N.uasset" 645
+"../../../../../UE4/First try/Sequencer/Content/Assets/Material_Layers/ML_Floor_Tile.uasset" 646
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Floor_Water_Mesh_Paint.uasset" 647
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Lightbulb.uasset" 648
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Reflection_Tiles_Broken_D.uasset" 649
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Reflection_Tiles_Broken_N.uasset" 650
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Reflection_Tiles_M.uasset" 651
+"../../../../../UE4/First try/Sequencer/Content/Assets/Material_Layers/ML_Tiles_Broken.uasset" 652
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Reflection_Tiles_D.uasset" 653
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Reflection_Tiles_N.uasset" 654
+"../../../../../UE4/First try/Sequencer/Content/Assets/Material_Layers/ML_Tiles_Whole.uasset" 655
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Tiles_Wall_Mesh_Paint.uasset" 656
+"../../../../../UE4/First try/Sequencer/Content/Assets/Effects/Textures/GodRay/T_GodRay_Mask02.uasset" 657
+"../../../../../UE4/First try/Sequencer/Content/Assets/Effects/Textures/T_Clouds_01.uasset" 658
+"../../../../../UE4/First try/Sequencer/Content/Assets/Effects/Materials/GodRay/M_GodRay.uasset" 659
+"../../../../../UE4/First try/Sequencer/Content/Assets/Effects/Materials/GodRay/M_GodRay_Inst.uasset" 660
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/Emissive_White_Inst.uasset" 661
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Ceiling_Mesh_Paint_Inst.uasset" 662
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Floor_Water_Mesh_Paint_Inst.uasset" 663
+"../../../Engine/Content/EngineLightProfiles/180Degree_IES.uasset" 664
+"../../../Engine/Content/EngineSounds/Master.uasset" 665
+"../../../Engine/Content/MapTemplates/lut/LUT_Morning.uasset" 666
+"../../../../../UE4/First try/Sequencer/Content/Assets/Audio/Ambient/Amb_IntRoomtone_Cue.uasset" 667
+"../../../../../UE4/First try/Sequencer/Content/Assets/Effects/Meshes/GodRay/SM_GodRay.uasset" 668
+"../../../../../UE4/First try/Sequencer/Content/Assets/Effects/Textures/T_SmokeBall_03_Perlin.uasset" 669
+"../../../../../UE4/First try/Sequencer/Content/Assets/Effects/Materials/Dust/M_Dust_Flicker.uasset" 670
+"../../../../../UE4/First try/Sequencer/Content/Assets/Effects/Vectors/VF_Tunnel_Movement_2_100.uasset" 671
+"../../../../../UE4/First try/Sequencer/Content/Assets/Effects/Particles/Dust/PGPU_Dust_Vec_Large.uasset" 672
+"../../../../../UE4/First try/Sequencer/Content/Assets/Effects/Particles/Dust/PGPU_Dust_Vec_Large2.uasset" 673
+"../../../../../UE4/First try/Sequencer/Content/Assets/Effects/Particles/Volumetric/P_Mist_Lit_Still.uasset" 674
+"../../../../../UE4/First try/Sequencer/Content/Assets/Effects/Particles/Volumetric/P_SteamRising.uasset" 675
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/occluder.uasset" 676
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Ceiling_Slat_600.uasset" 677
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Floor_600.uasset" 678
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Floor_600_Simple.uasset" 679
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Gate01.uasset" 680
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 681
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalFlatten.uasset" 682
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Metal_Base01.uasset" 683
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Handrail.uasset" 684
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Mirror.uasset" 685
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Poster_Trim.uasset" 686
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Mirror_Sphere.uasset" 687
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Mirror_Sphere_Corner.uasset" 688
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Outlet01.uasset" 689
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Outlet02.uasset" 690
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Pillar01.uasset" 691
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Pillar02.uasset" 692
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Pipe01_100.uasset" 693
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Pipe01_100_Bent_90Tight.uasset" 694
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Clamp_M.uasset" 695
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Clamp_N.uasset" 696
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Metal_Rust_Blends_02_M.uasset" 697
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Pipe_Clamps.uasset" 698
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Pipe_Clamp01.uasset" 699
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Pipes_Small.uasset" 700
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Pipe_Small_300.uasset" 701
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Pipe_Small_90.uasset" 702
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Pipe_TJunction.uasset" 703
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Painted_Metal_02_D.uasset" 704
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_White_Painted_Metal_N.uasset" 705
+"../../../../../UE4/First try/Sequencer/Content/Assets/Material_Layers/ML_Valve.uasset" 706
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Pipe_Valves_01_M.uasset" 707
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Pipe_Valves_01_N.uasset" 708
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Pipe_Valve_01.uasset" 709
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Pipe_Valves_02_M.uasset" 710
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Pipe_Valves_02_N.uasset" 711
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Pipe_Valve_02.uasset" 712
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Pipe_Valve.uasset" 713
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_PipeCap_N.uasset" 714
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Pipecap_Yellow.uasset" 715
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_PipeCap_Top.uasset" 716
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Poster01.uasset" 717
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Poster02.uasset" 718
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Poster03.uasset" 719
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Poster04.uasset" 720
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Poster05.uasset" 721
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Poster06.uasset" 722
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Poster07.uasset" 723
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Poster08.uasset" 724
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Stairs_300.uasset" 725
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Tiles_Broken01.uasset" 726
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Tiles_Broken02.uasset" 727
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Tiles_Broken03.uasset" 728
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Trashbag_N.uasset" 729
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Trashbag.uasset" 730
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Trashbag.uasset" 731
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Hallway_Trashcan_M.uasset" 732
+"../../../../../UE4/First try/Sequencer/Content/Assets/Textures/T_Hallway_Trashcan_N.uasset" 733
+"../../../../../UE4/First try/Sequencer/Content/Assets/Materials/M_Trashcan.uasset" 734
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Trashcan01.uasset" 735
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Wall_450_Closed.uasset" 736
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Wall_600.uasset" 737
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Wall_Corner_Inner_Curved_600.uasset" 738
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Wall_Corner_Outer_Curved_300.uasset" 739
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Hallway_Wall_Corner_Outer_Curved_600.uasset" 740
+"../../../../../UE4/First try/Sequencer/Content/Assets/Mesh/SM_Light_Fluorescent_01.uasset" 741
+"../../../../../UE4/First try/Sequencer/Content/Maps/subwaySequencer_P.umap" 742
