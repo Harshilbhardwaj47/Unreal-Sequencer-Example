@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.23",
+	"Category": "Samples",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "PerformanceMonitor",
+			"Enabled": true
+		}
+	],
+	"EpicSampleNameHash": "3480472857"
+}
